@@ -48,4 +48,4 @@
 </p>
 ## 🎯 GitHub Activity
 
-![Your Activity Graph](https://activity-graph.herokuapp.com/graph?username=your-username&bg_color=2b2d2f&color=ffb6b6&line=ff5722&point=ffffff&area=true&hide_border=true)
+![Your Activity Graph](https://activity-graph.herokuapp.com/graph?krayush7-username&bg_color=2b2d2f&color=ffb6b6&line=ff5722&point=ffffff&area=true&hide_border=true)
