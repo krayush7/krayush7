@@ -49,11 +49,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krayush7&layout=compact&theme=radical" />
 </p>
 
-## 🎶 GitHub Activity - DJ Animation
+## 🎯 GitHub Activity
 
+<!-- Simple Activity Graph -->
 ![Your Activity Graph](https://activity-graph.herokuapp.com/graph?username=krayush7&bg_color=2b2d2f&color=ffb6b6&line=ff5722&point=ffffff&area=true&hide_border=true)
-
-<!-- DJ-like Animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlPpLbgMzPjyhL2/giphy.gif" width="150" alt="DJ Animation" />
-</p>
