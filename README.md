@@ -55,5 +55,5 @@
 
 <!-- DJ-like Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/XyQ8TL1ZKFLpk/giphy.gif" width="150" alt="DJ Animation" />
+  <img src="https://media.giphy.com/media/l0HlPpLbgMzPjyhL2/giphy.gif" width="150" alt="DJ Animation" />
 </p>
