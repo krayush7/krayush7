@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="font-size: 30px;">👋</span> Hi, I'm Krayush! <br>
+  👋 Hi, I'm Krayush! <br>
   <i>Python Developer | SQL Enthusiast | Django Lover</i>
 </h1>
 
@@ -19,17 +19,11 @@
 
 <p align="center">
   <!-- Python Icon -->
-  <span class="icon-container">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </span>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="120px" />
   <!-- SQL Icon -->
-  <span class="icon-container">
-    <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
-  </span>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" width="120px" />
   <!-- Django Icon -->
-  <span class="icon-container">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  </span>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" width="120px" />
 </p>
 
 ## 📈 GitHub Stats
@@ -49,17 +43,3 @@
 
 <!-- Activity Graph -->
 ![Your Activity Graph](https://activity-graph.herokuapp.com/graph?username=krayush7&bg_color=2b2d2f&color=ffb6b6&line=ff5722&point=ffffff&area=true&hide_border=true)
-
-<style>
-  /* CSS Animation for Tech Icons */
-  .icon-container img {
-    width: 100px; /* Set width of icons */
-    margin: 10px;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  }
-
-  .icon-container img:hover {
-    transform: scale(1.2); /* Zoom effect */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Add a shadow */
-  }
-</style>
