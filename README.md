@@ -48,9 +48,7 @@
 ## 🎯 GitHub Activity
 
 <!-- Activity Graph -->
-<div class="activity-graph">
-  <img src="https://activity-graph.herokuapp.com/graph?username=krayush7&bg_color=2b2d2f&color=ffb6b6&line=ff5722&point=ffffff&area=true&hide_border=true" />
-</div>
+![Your Activity Graph](https://activity-graph.herokuapp.com/graph?username=krayush7&bg_color=2b2d2f&color=ffb6b6&line=ff5722&point=ffffff&area=true&hide_border=true)
 
 <style>
   /* CSS Animation for Tech Icons */
@@ -63,16 +61,5 @@
   .icon-container img:hover {
     transform: scale(1.2); /* Zoom effect */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Add a shadow */
-  }
-
-  /* Simple CSS animation for the activity graph */
-  .activity-graph img {
-    animation: fadeIn 2s ease-out;
-  }
-
-  /* Fade-in animation */
-  @keyframes fadeIn {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
   }
 </style>
