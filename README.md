@@ -42,4 +42,7 @@
 ## 🎯 GitHub Activity
 
 <!-- Activity Graph -->
-![Your Activity Graph](https://activity-graph.herokuapp.com/graph?username=krayush7&bg_color=2b2d2f&color=ffb6b6&line=ff5722&point=ffffff&area=true&hide_border=true)
+## 🐍 Snake Animation
+
+![Snake Animation](https://raw.githubusercontent.com/krayush7/krayush7/output/dist/snake.svg)
+
