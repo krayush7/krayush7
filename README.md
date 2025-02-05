@@ -1,6 +1,6 @@
 <h1 align="center">
   👋 Hi, I'm Kumar Ayush! <br>
-  <i>Python Developer | SQL Enthusiast | Django Lover</i>
+  <i>Python | SQL | Django </i>
 </h1>
 
 <p align="center">
