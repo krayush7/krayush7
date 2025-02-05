@@ -29,8 +29,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krayush7&show_icons=true&hide_border=true&count_private=true&hide=prs&theme=radical" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=krayush7&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krayush7&show_icons=true&hide_border=true&count_private=true&hide=prs&theme=gotham" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=krayush7&theme=gotham" />
 </p>
 
 ## 💯 Top Languages
