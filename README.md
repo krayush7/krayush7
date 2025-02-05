@@ -34,8 +34,8 @@
 </p>
 
 ### GitHub Contribution Chart
-<a href="https://github.com/KenanGain">
-    <img src="https://ghchart.rshah.org/KenanGain" alt="KenanGain's GitHub Contribution Chart">
+<a href="https://github.com/krayush7">
+    <img src="https://ghchart.rshah.org/krayush7" alt="krayush7's GitHub Contribution Chart">
 </a>
 
 
@@ -44,9 +44,9 @@
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
   </summary>
   
-  <img src="https://myreadme.vercel.app/api/embed/krayush7?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="krayush's GitHub Stats">
+  <img src="https://myreadme.vercel.app/api/embed/krayush7?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="krayush7's GitHub Stats">
       <img src="https://github-readme-bento.vercel.app/stats/krayush7?theme=dark" alt="krayush7's GitHub Stats">
-      <img src="https://stats.dooboo.io/api/github-stats-advanced?login=KenanGain" alt="Advanced GitHub Stats for krayush7" width="400">
+      <img src="https://stats.dooboo.io/api/github-stats-advanced?login=krayush7" alt="Advanced GitHub Stats for krayush7" width="400">
 
 
 </details>
@@ -55,20 +55,5 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krayush7&layout=compact&theme=gotham" />
 </p>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/krayush7/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/krayush7/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/krayush7/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 
 
