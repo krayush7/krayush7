@@ -10,7 +10,7 @@
   <a href="https://github.com/unfollowmiku" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="https://instagram.com/krayush7" target="_blank">
+  <a href="https://instagram.com/unfollowmiku" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </p>
