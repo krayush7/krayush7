@@ -33,6 +33,15 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=krayush7&theme=gotham" />
 </p>
 
+
+
+</details>
+## 💯 Top Languages
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krayush7&layout=compact&theme=gotham" />
+</p>
+
 ### GitHub Contribution Chart
 <a href="https://github.com/krayush7">
     <img src="https://ghchart.rshah.org/krayush7" alt="krayush7's GitHub Contribution Chart">
@@ -48,12 +57,5 @@
       <img src="https://github-readme-bento.vercel.app/stats/krayush7?theme=dark" alt="krayush7's GitHub Stats">
       <img src="https://stats.dooboo.io/api/github-stats-advanced?login=krayush7" alt="Advanced GitHub Stats for krayush7" width="400">
 
-
-</details>
-## 💯 Top Languages
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krayush7&layout=compact&theme=gotham" />
-</p>
 
 
