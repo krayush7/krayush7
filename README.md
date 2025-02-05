@@ -15,6 +15,8 @@
   </a>
 </p>
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=krayuh7)
+
 ## 🚀 Tech Stack
 
 <p align="center">
