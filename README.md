@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 Hi, I'm Krayush! <br>
+  👋 Hi, I'm Kumar Ayush! <br>
   <i>Python Developer | SQL Enthusiast | Django Lover</i>
 </h1>
 
