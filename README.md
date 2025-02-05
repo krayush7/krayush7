@@ -39,10 +39,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krayush7&layout=compact&theme=radical" />
 </p>
 
-## 🎯 GitHub Activity
-
-<!-- Activity Graph -->
-## 🐍 Snake Animation
-
-![Snake Animation](https://raw.githubusercontent.com/krayush7/krayush7/output/dist/snake.svg)
 
